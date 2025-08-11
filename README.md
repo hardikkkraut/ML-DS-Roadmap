@@ -1,10 +1,31 @@
-# ML-DS-Roadmap
-A 30-day challenge to master Machine Learning &amp; Data Science hands-on projects, certifications, LeetCode practice, and daily learning logs.
+# 30-Day Machine Learning & Data Science Roadmap 🚀
 
-## 📅 Daily Progress Tracker
+This repository documents my **30-day ML/DS journey**, where I learn, build, and share daily projects & notes.
 
-| Day | Topic                              | Notes                    | GitHub | Certification | LeetCode |
-|-----|------------------------------------|--------------------------|--------|----------------|----------|
-| 1   | Setup + Python Basics              | [notes](Day1/notes.md)   | ✅     | -              | ✅       |
-| 2   | Anaconda, Jupyter & Profile Setup  | [notes](Day2/notes.md)   | ✅     | -              | -        |
+## 📂 Structure
+Each folder contains:
+- **notes.md** → Key learnings & resources for the day
+- **notebooks/** → Jupyter notebooks with code
+- **data/** → Sample datasets (if applicable)
+- **images/** → Visualizations for posts
+
+## 🗓 Week 1 – Foundations & First Projects
+- **[Day 1: Setup + Profile Optimization](./Day1/notes.md)**
+- **[Day 2: Python for Data Science](./Day2/notes.md)**
+- **[Day 3: NumPy & Pandas](./Day3/notes.md)**
+- **[Day 4: Data Visualization](./Day4/notes.md)**
+- **[Day 5: Scikit-learn + ML Overview](./Day5/notes.md)**
+- **[Day 6: Student Score Predictor](./Day6/notes.md)**
+- **[Day 7: Recap](./Day7/notes.md)**
+
+## 🗓 Week 2 – Core ML Algorithms
+- **[Day 8: Logistic Regression](./Day8/notes.md)**
+- **[Day 9: Decision Tree + Random Forest](./Day9/notes.md)**
+- **[Day 10: Titanic Survivor Prediction](./Day10/notes.md)**
+
+---
+
+📌 **Follow my journey on LinkedIn:www.linkedin.com/in/hardik-r-4b10aa231
+
+ 
 
